@@ -1,0 +1,7 @@
+Observa los Resultados en la Consola:
+
+La aplicación creará instancias de las clases Empleado y Gerente y mostrará su información en la consola.
+Verás información sobre un empleado llamado "Juan Pérez" y un gerente llamado "Jose Imbaquinga" en el departamento de "Recursos Humanos".
+
+
+Los datos que se pueden cambiar se encuentran en la linea del codigo 64 y 67 la cual podemos observar campos que se puede modificar, como el nombre,salario y departamento. 

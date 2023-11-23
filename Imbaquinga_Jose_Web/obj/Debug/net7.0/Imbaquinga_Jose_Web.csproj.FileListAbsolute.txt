@@ -1,0 +1,14 @@
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\bin\Debug\net7.0\Imbaquinga_Jose_Web.exe
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\bin\Debug\net7.0\Imbaquinga_Jose_Web.deps.json
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\bin\Debug\net7.0\Imbaquinga_Jose_Web.runtimeconfig.json
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\bin\Debug\net7.0\Imbaquinga_Jose_Web.dll
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\bin\Debug\net7.0\Imbaquinga_Jose_Web.pdb
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\Imbaquinga_Jose_Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\Imbaquinga_Jose_Web.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\Imbaquinga_Jose_Web.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\Imbaquinga_Jose_Web.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\Imbaquinga_Jose_Web.dll
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\refint\Imbaquinga_Jose_Web.dll
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\Imbaquinga_Jose_Web.pdb
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\Imbaquinga_Jose_Web.genruntimeconfig.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Imbaquinga\Imbaquinga_Jose_Web\obj\Debug\net7.0\ref\Imbaquinga_Jose_Web.dll
