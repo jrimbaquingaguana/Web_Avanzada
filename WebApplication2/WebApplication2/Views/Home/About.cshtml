@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Acerca de Nosotros";
+    var descripcion = "Somos una empresa comprometida con la excelencia.";
+    var mostrarDescripcion = true;
+}
+
+<link rel="stylesheet" href="~/Content/estilos.css" />
+
+<div class="container">
+    <h2>@ViewData["Title"]</h2>
+
+    @if (mostrarDescripcion)
+    {
+        <p>@descripcion</p>
+    }
+    else
+    {
+        <p>No hay descripción disponible.</p>
+    }
+</div>

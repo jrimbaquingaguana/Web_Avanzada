@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Página de Contacto";
+    var empleados = new List<string> { "Juan", "María", "Carlos" };
+}
+
+<link rel="stylesheet" href="~/Content/estilos.css" />
+
+<div class="container">
+    <h2>@ViewData["Title"]</h2>
+
+    @if (empleados.Any())
+    {
+        <ul>
+            @foreach (var empleado in empleados)
+            {
+                <li>@empleado</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No hay empleados disponibles.</p>
+    }
+</div>
