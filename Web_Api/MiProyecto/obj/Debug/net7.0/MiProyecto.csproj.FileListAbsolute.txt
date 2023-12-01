@@ -1,0 +1,8 @@
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Api\MiProyecto\obj\Debug\net7.0\MiProyecto.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Api\MiProyecto\obj\Debug\net7.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Api\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Api\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Api\MiProyecto\obj\Debug\net7.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Api\MiProyecto\obj\Debug\net7.0\MiProyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Api\MiProyecto\obj\Debug\net7.0\MiProyecto.RazorAssemblyInfo.cache
+C:\Users\richa\OneDrive\Escritorio\web_Avanzada\Web_Api\MiProyecto\obj\Debug\net7.0\MiProyecto.RazorAssemblyInfo.cs

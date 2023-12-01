@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net7.0",
+    "\\obj\\Debug\\net7.0\\ref",
+    "\\obj\\Debug\\net7.0\\refint",
+    "\\obj\\Debug\\net7.0\\staticwebassets",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\bin",
+  "PreviewInSolutionExplorer": false
+}
